@@ -9,6 +9,6 @@
 int main()
 {
  printf("Andrew\n");
- printf("computer science");
+ printf("computer science\n");
  return 0;
 }
