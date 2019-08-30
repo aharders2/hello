@@ -10,5 +10,7 @@ int main()
 {
  printf("Andrew\n");
  printf("computer science");
+ printf("Bryce\n");
+ printf("Computer science");
  return 0;
 }
